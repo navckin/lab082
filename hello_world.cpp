@@ -1,6 +1,6 @@
 
 #include <iostream>
-
+//комментарии добавляю я
 int main()
 {std::string name;
  std::cin>>  name;
